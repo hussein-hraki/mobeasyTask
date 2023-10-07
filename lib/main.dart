@@ -11,7 +11,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
   //تفعيل الإشعارات عبر ون سيجنال
-  OneSignal.initialize("9337fe7f-9556-42a6-afd6-9fd06919d49e");
+  OneSignal.initialize("9337fe7f-9556-42a6-afd6-8fd06919d49e");
   runApp(const Mobeasy());
 }
 
