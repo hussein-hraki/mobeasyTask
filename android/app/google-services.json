@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "220258383259",
+    "project_id": "mobeasy-552ca",
+    "storage_bucket": "mobeasy-552ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220258383259:android:6258b90c1732fb8fb91d3e",
+        "android_client_info": {
+          "package_name": "com.example.mobeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220258383259-ut4lvnikoluc43mc07e8q1id5pnau0l7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobeasy",
+            "certificate_hash": "03b4b3936a87c2cb197b75e0693d57762e19a9ff"
+          }
+        },
+        {
+          "client_id": "220258383259-49b5fuiq4qgacljgedtj4u60ul0k83l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDF4sdQVl3ti1SZW9idrasbylGJOPeG0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220258383259-49b5fuiq4qgacljgedtj4u60ul0k83l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
